@@ -7,7 +7,7 @@ import java.net.URLConnection;
 
 public class webAccess {
 	
-	public String rawJSON (String url) {
+	public static String rawJSON (String url) {
 		try {
 			URL page = new URL(url); //Forms the URL class
 			URLConnection pageConnection = page.openConnection(); //Creates a connection to the webpage
