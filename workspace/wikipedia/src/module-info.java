@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author martin
- *
- */
-module wikipedia {
-}
